@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[77263,["/_next/static/chunks/0hd._cu5gy6cg.js","/_next/static/chunks/0~bt8~2u--09_.js"],""]
+3:I[53125,["/_next/static/chunks/0hd._cu5gy6cg.js","/_next/static/chunks/0~bt8~2u--09_.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"not-found","children":["$","div",null,{"className":"not-found-inner","children":[["$","p",null,{"className":"not-found-code","children":"404"}],["$","h1",null,{"children":"This route lost the loop."}],["$","p",null,{"children":"The page may have moved. Rejoin the verified beginner route and keep progressing."}],["$","$L2",null,{"className":"button button-primary","href":"/beginner-guide","children":"Open the beginner guide →"}]]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"l3Jk9w14Cx00iwnd-M60k"}
+5:null

@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://plus1battlecatpowerevolution.wiki
+Sitemap: https://plus1battlecatpowerevolution.wiki/sitemap.xml
