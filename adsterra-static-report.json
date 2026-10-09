@@ -1,0 +1,78 @@
+{
+  "status": "adsterra-ready",
+  "adNetwork": "adsterra",
+  "adNetworkSource": "default",
+  "releaseBlocking": false,
+  "browserAdRequestCheck": "required-after-deploy",
+  "runtime": "classic-defer",
+  "runtimeHasImport": false,
+  "visibleSlotCap": 3,
+  "enablePopunder": false,
+  "enableSocialBar": false,
+  "adsTxt": "omitted-no-platform-line",
+  "cspHosts": [
+    "https://www.highperformanceformat.com",
+    "https://*.highperformanceformat.com",
+    "https://*.effectivecpmnetwork.com"
+  ],
+  "pages": {
+    "injected": [
+      "_not-found/index.html",
+      "beginner-guide/index.html",
+      "codes/index.html",
+      "faq/index.html",
+      "gameplay-loop/index.html",
+      "index.html",
+      "mistakes/index.html",
+      "progression/index.html"
+    ],
+    "legalSkipped": [
+      "404/index.html",
+      "404.html",
+      "about/index.html",
+      "contact/index.html",
+      "disclosure/index.html",
+      "privacy/index.html",
+      "sources/index.html",
+      "terms/index.html"
+    ],
+    "visibleSlotCounts": {
+      "404/index.html": 0,
+      "404.html": 0,
+      "_not-found/index.html": 3,
+      "about/index.html": 0,
+      "beginner-guide/index.html": 3,
+      "codes/index.html": 3,
+      "contact/index.html": 0,
+      "disclosure/index.html": 0,
+      "faq/index.html": 3,
+      "gameplay-loop/index.html": 3,
+      "index.html": 3,
+      "mistakes/index.html": 3,
+      "privacy/index.html": 0,
+      "progression/index.html": 3,
+      "sources/index.html": 0,
+      "terms/index.html": 0
+    }
+  },
+  "trackedFiles": [
+    "404/index.html",
+    "404.html",
+    "_not-found/index.html",
+    "about/index.html",
+    "beginner-guide/index.html",
+    "codes/index.html",
+    "contact/index.html",
+    "disclosure/index.html",
+    "faq/index.html",
+    "gameplay-loop/index.html",
+    "index.html",
+    "mistakes/index.html",
+    "privacy/index.html",
+    "progression/index.html",
+    "sources/index.html",
+    "terms/index.html",
+    "_headers",
+    "adsterra/runtime.js"
+  ]
+}
